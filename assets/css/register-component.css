@@ -1,0 +1,47 @@
+.banner{
+    width: 100%;
+}
+
+.form-register{
+
+    padding-bottom: 4%;
+}
+
+.text-login{
+
+    width: 50%;
+    margin-left: 28%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.tittle-login {
+
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.log-text{
+    font-size: 1.5em;
+}
+
+.btn-form{
+    text-align: center;
+}
+
+.labelfor{
+    padding-bottom: 4%;
+    padding-top: 4%;
+}
+
+.form-color{
+    background: #72BB53;
+}
+
+@media screen and (max-width:764px){
+
+.banner {
+    height: 160px;
+}
+
+}

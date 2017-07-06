@@ -1,0 +1,107 @@
+.carrusel {
+    width: 100%;
+}
+
+.titulo-carousel {
+
+    font-size: 2em;
+    
+
+}
+
+.descripcion-carousel {
+
+text-align: left;
+font-size: 1.45em;
+
+
+}
+
+/*--------------- */
+
+
+.ImgCarousel{
+
+    width: 100%;
+    height: auto;
+
+}
+
+
+
+.ContenidoSlide {
+    left: 27%;
+    top: 17%;
+    width: 45%;
+    text-align: center;
+    color: black;
+
+
+}
+
+.BotonVer {
+    background: red;
+    color: white;
+
+}
+
+.cardDiv {
+    padding-top: 1%;
+}
+
+.cardtext {
+
+    text-align: center;
+    padding: 0 !important;
+}
+
+
+.card {
+
+    padding: 0 !important;
+
+}
+
+.textMid{
+    text-align: center;
+}
+
+.Insights{
+font-size: 3em;
+}
+
+.Insights-text{
+font-size: 1em;
+}
+
+.logo {
+font-size: 2em;
+}
+
+
+@media screen and (max-width:768px) {
+
+.carrusel {
+
+    height: 160px;
+}
+
+.titulo-carousel {
+
+    display:none;
+}
+
+.btn-home{
+
+    padding-left: 0;
+}
+
+.logo{
+    font-size: 1.6em;
+}
+
+.log{
+    text-align: center;
+}
+}
+
