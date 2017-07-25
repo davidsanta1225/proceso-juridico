@@ -65,7 +65,7 @@
   font-size: 12px;
   font-weight: 200;
   background-color: #2e353d;
-  position: absolute;
+  position: fixed;
   top: 0px;
   width: 255px;
   height: 100%;
@@ -331,6 +331,14 @@ hr {
 
 .liMenu:hover ~ .MenuOption{
     display: block;
+}
+
+#config:target{
+    display: block !important;
+}
+
+#report:target{
+    display: block !important;
 }
 
 

@@ -1,6 +1,3 @@
-.banner{
-    width: 100%;
-}
 
 .usersf {
     padding-top: 5%;
@@ -55,12 +52,4 @@ padding-top: 4%;
 .tableC{
 
     padding-top: 8%;
-}
-
-@media screen and (max-width:764px){
-
-.banner {
-    height: 160px;
-}
-
 }

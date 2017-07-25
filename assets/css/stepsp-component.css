@@ -1,0 +1,59 @@
+.usersf {
+
+    padding-top: 5%;
+}
+
+.customerf {
+    padding-top: 5%;
+}
+
+.labelfor{
+    padding-bottom: 4%;
+    padding-top: 4%;
+}
+
+.btnf {
+padding-top: 4%;
+}
+
+h1 {
+
+    text-align: center;
+}
+
+
+.st {
+
+    background: green;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 1.8em;
+    display: inline-block;
+}
+
+.arrow {
+    display: inline-block;
+}
+
+.st1 {
+    background: rebeccapurple;
+}
+
+.text-step{
+
+    width: 58%;
+    word-wrap: break-word;
+}
+
+
+.file{
+
+    padding-top: 6%;
+}
+
+
+
+
+
