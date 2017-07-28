@@ -1,29 +1,5 @@
-
-.form-register{
-
-    padding-bottom: 4%;
-}
-
-.text-login{
-
-    width: 50%;
-    margin-left: 28%;
+.presentacionf {
     padding-top: 5%;
-    padding-bottom: 5%;
-}
-
-.tittle-login {
-
-    text-align: center;
-    font-size: 2.5em;
-}
-
-.log-text{
-    font-size: 1.5em;
-}
-
-.btn-form{
-    text-align: center;
 }
 
 .labelfor{
@@ -31,26 +7,13 @@
     padding-top: 4%;
 }
 
-.labelpro{
-
-    padding-bottom: 0;
-}
-
-.tablapro {
-
-    padding-top: 4% !important;
-}
-
-.form-color{
-    background: #72BB53;
-}
-
 .btnf {
-padding-top: 4%;
+padding-top: 5%;
 }
 
-.btnf2{
-    padding-top: 5%;
+h1 {
+
+    text-align: center;
 }
 
 .panel-table .panel-body{
@@ -90,10 +53,4 @@ padding-top: 4%;
     padding-top: 8%;
 }
 
-@media screen and (max-width:764px){
 
-.banner {
-    height: 160px;
-}
-
-}
