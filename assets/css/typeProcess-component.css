@@ -21,6 +21,10 @@ h1 {
     text-align: center;
 }
 
+.chk {
+  font-size: 1.3em !important;
+}
+
 .panel-table .panel-body{
   padding:0;
 }
