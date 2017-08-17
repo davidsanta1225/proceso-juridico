@@ -25,6 +25,19 @@ h1 {
   font-size: 1.3em !important;
 }
 
+.liste{
+  font-size: 1.4em;
+}
+
+.labelst{
+  font-size:1.4em;
+  padding-top: 5%;
+}
+
+.cancel{
+  margin-left: 12px;
+}
+
 .panel-table .panel-body{
   padding:0;
 }
@@ -59,7 +72,7 @@ h1 {
 
 .tableC{
 
-    padding-top: 8%;
+    padding-top: 1%;
 }
 
 
