@@ -1,7 +1,45 @@
+.typef {
+    padding-top: 5%;
+}
+
+.labelfor{
+    padding-bottom: 4%;
+    padding-top: 4%;
+}
+
+.btnf {
+padding-top: 4%;
+}
+
+.rowtype {
+
+    padding-top: 4%;
+}
+
 h1 {
 
     text-align: center;
-        margin-left: 200px;
+}
+
+.chk {
+  font-size: 1.3em !important;
+}
+
+.liste{
+  font-size: 1.4em;
+}
+
+.labelst{
+  font-size:1.4em;
+  padding-top: 5%;
+}
+
+.cancel{
+  margin-left: 12px;
+}
+
+.cnl {
+  margin-left: 14px;
 }
 
 .panel-table .panel-body{
@@ -38,5 +76,7 @@ h1 {
 
 .tableC{
 
-    padding-top: 4%;
+    padding-top: 1%;
 }
+
+
